@@ -1,4 +1,4 @@
-[# 🔐 Password Generator](https://password-generator-kclvrco4c-akshatsrivastava26s-projects.vercel.app/)
+# 🔐 Password Generator(https://password-generator-kclvrco4c-akshatsrivastava26s-projects.vercel.app/)
 
 A simple and responsive **Password Generator** web app built with **ReactJS** and **Tailwind CSS**. Generate secure passwords with customizable options like length, numbers 🔢, and symbols ✨.
 
